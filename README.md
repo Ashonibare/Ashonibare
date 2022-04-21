@@ -10,3 +10,6 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
 
 ![python](https://img.shields.io/badge/Python-FFEBCD?style=for-the-badge&logo=Python&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML-808080?style=for-the-badge&logo=Python&logoColor=CD5C5C) ![C](https://img.shields.io/badge/C-ADD8E6?style=for-the-badge&logo=C&logoColor=White)
+
+| <a href="https://github.com/Ashonibare/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashonibare-S&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Ashonibare's github stats" /></a> | <a href="https://github.com/Ashonibare/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashonibare&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
+| ------------- | ------------- |
