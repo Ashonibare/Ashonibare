@@ -14,4 +14,4 @@
 | <a href="https://github.com/Ashonibare/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashonibare&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Ashonibare's github stats" /></a> | <a href="https://github.com/Ashonibare/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashonibare&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
 
-# Say hi to me @ https://twitter.com/Ashonibarevik
+# Say hi to me @ https://twitter.com/AshonibareAbbey
