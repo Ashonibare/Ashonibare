@@ -8,6 +8,7 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
 
 ![python](https://img.shields.io/badge/Python-FFEBCD?style=for-the-badge&logo=Python&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML-808080?style=for-the-badge&logo=Python&logoColor=CD5C5C) ![C](https://img.shields.io/badge/C-ADD8E6?style=for-the-badge&logo=C&logoColor=White)
 
